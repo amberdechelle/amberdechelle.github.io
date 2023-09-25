@@ -1,0 +1,16 @@
+body {
+    background-color: yellow;
+}
+
+h1 {
+    color: hotpink;
+    text-align: center;
+}
+
+p {
+    color: darkslategray;
+    width: 25%
+    margin:auto;
+    text-align: center;
+
+}
