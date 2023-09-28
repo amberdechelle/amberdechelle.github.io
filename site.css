@@ -1,16 +1,45 @@
 body {
-    background-color: yellow;
+    background-color: bisque;
 }
 
 h1 {
     color: hotpink;
     text-align: center;
+    border: 4px dotted navy;
+    display: inline block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 p {
-    color: darkslategray;
-    width: 25%
-    margin:auto;
-    text-align: center;
+    color: darkolivegreen;
+    text-align:center;
 
 }
+
+h3 {text-align: center;
+
+color: darkslategray;
+}
+
+#dorianGray{
+        display: block;
+        margin: 0 auto;
+    
+}
+
+#draculaPicture{
+    display: block;
+    margin: 0 auto;
+}
+
+#bookPicture{
+    display: block;
+    margin: 0 auto;
+}
+
+#frankensteinPicture{
+    display: block;
+    margin: 0 auto;
+}
+
+
